@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto';
+  outline: none;
+}
+.p1 {
+  color: #475569;
+  font-size: 14px;
+}
+.icon {
+  width: 25px;
+  height: 25px;
+}
